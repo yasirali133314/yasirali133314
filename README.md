@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yasirali133314
+- 👋 Hi, I’m  Yasir Ali (@yasirali133314)
 - 👀 I’m interested in creating mobile apps using Flutter/Dart
 - 🌱 I’m currently learning Advance Flutter techniques and leading a team of 5 developers.
 - 💞️ I’m looking to collaborate on Big large scale projects/products.
